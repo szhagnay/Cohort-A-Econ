@@ -8,7 +8,7 @@
 **Contributors:** James Ceus, Jessenia Diaz, Fari Lindo, Bakari Sibert, Sherla Zhagnay
 
 ## **Project Title:** Understanding the Economic Health of Americans and the Broather World 
-### **Last Updated:** 2025-05-20  
+   **Last Updated:** 2025-05-20  
 ## **Team Members:** James Ceus, Jessenia Diaz, Fari Lindo, Bakari Sibert, Sherla Zhagnay
 
 ---

@@ -4,7 +4,7 @@
 
 ---
 # 📦 National & International Economic Insight & EDA Project  
-## Cohort-A Econ | End-of-Year Team Project  
+## Cohort-A Econ | End-of-Phase Team Project  
 **Contributors:** James Ceus, Jessenia Diaz, Fari Lindo, Bakari Sibert, Sherla Zhagnay
 
 ## **Project Title:** Understanding the Economic Health of Americans and the Broather World 

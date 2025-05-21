@@ -51,12 +51,69 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 
 ---
 
+## 📊 Kaggle Dataset (Primary)
+
+### **About Dataset**
+This dataset provides insights into the cost of living and average monthly income across various countries and regions worldwide from 2000 to 2023.
+It includes critical economic indicators such as housing costs, taxes, healthcare, education, transportation expenses, and savings rates. The data is ideal for analyzing economic trends, regional comparisons, and financial planning.
+
+### **Column Descriptions:**
+- Country: The name of the country where the data was recorded.
+- Region: The geographical region to which the country belongs (e.g., Asia, Europe).
+- Year: The year when the data was recorded.
+- Average_Monthly_Income: The average monthly income of individuals in USD.
+- Cost_of_Living: The average monthly cost of living in USD, including essentials like housing, food, and utilities.
+- Housing_Cost_Percentage: The percentage of income spent on housing expenses.
+- Tax_Rate: The average tax rate applied to individuals' income, expressed as a percentage.
+- Savings_Percentage: The portion of income saved monthly, expressed as a percentage.
+- Healthcare_Cost_Percentage: The percentage of income spent on healthcare services.
+- Education_Cost_Percentage: The percentage of income allocated to educational expenses.
+- Transportation_Cost_Percentage: The percentage of income spent on transportation costs.
+
+## 🧠 Macro-Micro Index Panel (Secondary)
+### **About Dataset**
+### **Economic Data Documentation**
+
+This dataset includes several key economic indicators from the Federal Reserve Economic Data (FRED) database, prepared for exploratory data analysis on U.S. income and spending trends.
+
+### 1. `nominal_disposable_personal_income_DSPI.csv`
+- **Series ID**: DSPI
+- **Source**: [FRED - DSPI](https://fred.stlouisfed.org/series/DSPI)
+- **Units**: Billions of Dollars
+- **Description**: Total personal income after taxes (not adjusted for inflation). Useful for examining general liquidity available to the population.
+
+### 2. `real_disposable_personal_income_percapita_A229RX0.csv`
+- **Series ID**: A229RX0
+- **Source**: [FRED - A229RX0](https://fred.stlouisfed.org/series/A229RX0)
+- **Units**: Chained 2017 Dollars per Person
+- **Description**: Inflation-adjusted income per person. Useful for measuring real purchasing power and income disparity analysis.
+
+### 3. `real_personal_consumption_expenditures_PCEC96.csv`
+- **Series ID**: PCEC96
+- **Source**: [FRED - PCEC96](https://fred.stlouisfed.org/series/PCEC96)
+- **Units**: Billions of Chained 2017 Dollars
+- **Description**: Measures inflation-adjusted consumer spending. Useful for analyzing economic activity in areas like housing, food, and healthcare.
+
+### 4. `total_personal_income_pi.csv`
+- **Series ID**: PI
+- **Source**: [FRED - PI](https://fred.stlouisfed.org/series/PI)
+- **Units**: Billions of Dollars
+- **Description**: Total income received before taxes. Useful for examining economic growth, employment, and estimating tax burden when compared to DSPI.
+
+## ✅ Notes
+
+- All datasets are **monthly** and **seasonally adjusted**.
+- Use metadata CSV for provenance tracking and column units.
+
+---
+
 ## 📁 Datasets Used
 
 ### 📊 Kaggle Dataset (Primary)
 
 - **Name:** Cost of Living and Income (Extended)
-- **Source:** [PLACEHOLDER_KAGGLE_LINK]
+- **Source:** [[Regional Cost of Living Analysis
+Income and Expense Patterns Worldwide](https://www.kaggle.com/datasets/heidarmirhajisadati/regional-cost-of-living-analysis)]
 
 ### 🧠 Macro-Micro Index Panel (Secondary)
 
@@ -76,15 +133,6 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 - 📊 Visual EDA to answer each member’s questions
 - 📍 Map overlays of regional data (TBD)
 - 📑 Final presentation and dashboard with insights
-
----
-
-## 🔗 External Tools & Resources
-
-- Kaggle: [PLACEHOLDER_KAGGLE_LINK]
-- FRED API: [https://fred.stlouisfed.org/docs/api/fred/](https://fred.stlouisfed.org/docs/api/fred/)
-- Cost of Living Indexes: [PLACEHOLDER_URL]
-- Import/Export Port Stats: [PLACEHOLDER_URL]
 
 ---
 

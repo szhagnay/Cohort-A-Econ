@@ -41,17 +41,14 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 - **`Region`:**  Geographic region (e.g., North America, South America, Europe, etc.).                                             
 
 ### US_macro_micro_index.csv
-- **'nominal_disposable_personal_income_DSPI.csv':** Total personal income after taxes (not adjusted for inflation). Useful for examining general liquidity available to the population.
-- **Units**: Billions of Dollars
-
+- **`nominal_disposable_personal_income_DSPI.csv`:** Total personal income after taxes (not adjusted for inflation). Useful for examining general liquidity available to the population.
+  - **Units**: Billions of Dollars
 - **`real_disposable_personal_income_percapita_A229RX0.csv`:** Inflation-adjusted income per person. Useful for measuring real purchasing power and income disparity analysis.
-- **Units**: Chained 2017 Dollars per Person 
-
+  - **Units**: Chained 2017 Dollars per Person 
 - **`real_personal_consumption_expenditures_PCEC96.csv`:** Measures inflation-adjusted consumer spending. Useful for analyzing economic activity in areas like housing, food, and healthcare.
-- **Units**: Billions of Chained 2017 Dollars
-
+  - **Units**: Billions of Chained 2017 Dollars
 - **`total_personal_income_pi.csv`:** Total income received before taxes. Useful for examining economic growth, employment, and estimating tax burden when compared to DSPI.
-- **Units**: Billions of Dollars
+  - **Units**: Billions of Dollars
 
 ## 🔗 External Tools & Resources
 

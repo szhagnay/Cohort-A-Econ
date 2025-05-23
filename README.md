@@ -22,10 +22,10 @@ This project aims to explore the current and historical economic conditions of t
 
 We are investigating economic **disparities**, **liquidity trends**, **spending behavior**, and **cost of living pressures** on the American population and the Borader World using two main datasets:
 
-##### **Dataset 1:** `Cost_of_Living_and_Income_Extended.csv`
-##### **Dataset 2:** `US_macro_micro_index.csv`
+- ##### **Dataset 1:** `Cost_of_Living_and_Income_Extended.csv`
+- ##### **Dataset 2:** `US_macro_micro_index.csv`
 
-## Datset Dictionary
+## Dataset Dictionary
 ### Cost_of_Living_and_Income_Extended.csv
 
 - **`Country`:** Name of the country.
@@ -41,28 +41,33 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 - **`Region`:**  Geographic region (e.g., North America, South America, Europe, etc.).                                             
 
 ### US_macro_micro_index.csv
+- **'nominal_disposable_personal_income_DSPI.csv':** Total personal income after taxes (not adjusted for inflation). Useful for examining general liquidity available to the population.
+- **Units**: Billions of Dollars
 
-- **`Country`:** Name of the country.
-- **`Year`:** Year of the data recored.                     
-- **`Average_Monthly_Income`:** Average monthly income in local currency or USD (check source).
-- **`Cost_of_Living`:** Composite cost of living index or total monthly average expenses.
-- **`Housing_Cost_Percentage`:** Percentage of income spent on housing.
-- **`Tax_Rate`:** Average effective income tax rate (as a percentage).
-- **`Savings_Percentage`:** Estimated percentage of income that goes into savings.
-- **`Healthcare_Cost_Percentage`:** Percentage of income spent on healthcare.
-- **`Education_Cost_Percentage`:** Percentage of income spent on education.
-- **`Transportation_Cost_Percentage`:** Percentage of income spent of transportation.                         
-- **`Region`:**  Geographic region (e.g., North America, South America, Europe, etc.). 
+- **`real_disposable_personal_income_percapita_A229RX0.csv`:** Inflation-adjusted income per person. Useful for measuring real purchasing power and income disparity analysis.
+- **Units**: Chained 2017 Dollars per Person 
 
----
+- **`real_personal_consumption_expenditures_PCEC96.csv`:** Measures inflation-adjusted consumer spending. Useful for analyzing economic activity in areas like housing, food, and healthcare.
+- **Units**: Billions of Chained 2017 Dollars
+
+- **`total_personal_income_pi.csv`:** Total income received before taxes. Useful for examining economic growth, employment, and estimating tax burden when compared to DSPI.
+- **Units**: Billions of Dollars
 
 ## 🔗 External Tools & Resources
 
-- Kaggle: [PLACEHOLDER_KAGGLE_LINK]
-- FRED API: [https://fred.stlouisfed.org/docs/api/fred/](https://fred.stlouisfed.org/docs/api/fred/)
-- Cost of Living Indexes: [PLACEHOLDER_URL]
-- Import/Export Port Stats: [PLACEHOLDER_URL]
+**Kaggle Dataset:**
 
+- **Source:** [Cost of Living and Income (Extended)](https://www.kaggle.com/datasets/heidarmirhajisadati/regional-cost-of-living-analysis)
+
+**Federal Reserve Economy Database:**
+- [FRED - DSPI](https://fred.stlouisfed.org/series/DSPI)
+  - **Series ID**: DSPI
+- **Source**: [FRED - A229RX0](https://fred.stlouisfed.org/series/A229RX0)
+  - **Series ID**: A229RX0
+- **Source**: [FRED - PCEC96](https://fred.stlouisfed.org/series/PCEC96)
+  - **Series ID**: PCEC96
+- **Source**: [FRED - PI](https://fred.stlouisfed.org/series/PI)
+  -  **Series ID**: PI
 
 ## 💡 Notes
 

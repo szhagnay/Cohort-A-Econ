@@ -68,8 +68,8 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 
 ## 💡 Notes
 
-- All dollar-based figures are inflation-adjusted or noted with nominal units.
-- Team members are encouraged to contribute visualizations and summary writeups alongside their EDA.
+- 💵 Note: All monetary values are expressed in either inflation-adjusted dollars (real) or nominal dollars, as clearly indicated.
+- 📈 Team members are encouraged to contribute visualizations and summary writeups alongside their EDA.
 ---
 
 ## 🔍 Analytical Questions & Team Responses

@@ -92,6 +92,7 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 
 **Response:**  
 <!-- Add EDA insights or visualizations -->
+-Theres not a strong correlation between to total income earned and cost of living because one is a micro economic factor and one is a macro with potentially different inputs.
 - Noticed that lower-income brackets spend disproportionately more on housing
 - Cost of living varies widely by region—Midwest vs West Coast especially stark
 

@@ -103,9 +103,12 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 *What’s the overall economic health of Americans—how much liquidity do Americans have?*
 
 **Response:**  
-- Average savings % sits around 10–15%, but highly dependent on income level
-- Some negative liquidity in lower quartiles → potential debt issues
-- Consider adding net worth or debt-to-income ratio if available
+- The U.S. has seen steady personal income growth, doubling over the last two decades.
+- Despite temporary income spikes during the 2020–2021 pandemic period, long-term trends show consistent wage increases and economic recovery post-COVID. 
+- However, real purchasing power has flattened recently due to inflation, even as nominal income rises.
+- The seasonal pattern also matters: 
+  - income typically peaks in March and December (bonuses, refunds) and dips in summer months (July–August).
+- Most individuals fall within the $40K–$50K disposable income range, highlighting income concentration in the mid-tier.
 
 ---
 
@@ -132,8 +135,13 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 ---
 
 ## General Concensus? 
-  - We recomend: ___
-
+  - We recomend: 
+   - I thinking about the US, target growing sectors like tech, healthcare, and green energy for higher earning potential.
+   - Plan financially for summer months, when income tends to dip.
+   - Factor in regional costs (housing, transportation) when evaluating salaries.
+   - Look beyond salary—real income and cost of living determine true financial well-being.
+   - For new immigrants or job seekers, aim to negotiate based on inflation-adjusted value, not nominal pay alone.
+  - The U.S. offers a resilient and growing economy, but smart financial planning is key to turning opportunity into long-term success.
 
 ## 👥 Maintainers
 

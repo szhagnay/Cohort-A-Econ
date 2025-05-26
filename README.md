@@ -109,6 +109,7 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 - The seasonal pattern also matters: 
   - income typically peaks in March and December (bonuses, refunds) and dips in summer months (July–August).
 - Most individuals fall within the $40K–$50K disposable income range, highlighting income concentration in the mid-tier.
+- The Wealth Gap doesn't seem to be narrowing--majority of Americans are earning between $40k-$50k range and a small amount of individuals earn ~$60k+. 
 
 ---
 
@@ -134,7 +135,7 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 
 ---
 
-## General Concsensus? 
+## General Consensus? 
   - We recommend: 
    - I thinking about the US, target growing sectors like tech, healthcare, and green energy for higher earning potential.
    - Plan financially for summer months, when income tends to dip.

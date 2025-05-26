@@ -109,17 +109,16 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 - The seasonal pattern also matters: 
   - income typically peaks in March and December (bonuses, refunds) and dips in summer months (July–August).
 - Most individuals fall within the $40K–$50K disposable income range, highlighting income concentration in the mid-tier.
-- The Wealth Gap doesn't seem to be narrowing--majority of Americans are earning between $40k-$50k range and a small amount of individuals earn ~$60k+. 
+- The Wealth Gap doesn't seem to be narrowing--majority of Americans are earning between $40k-$50k range and a small amount of individuals earn ~$60k. 
 
 ---
 
 ### 🧠 **Jessenia Diaz**
 **Question:**  
-*How have Americans' spending habits—particularly in areas like housing, food, and healthcare—changed over time, and what can trends in disposable income reveal about these shifts?*
+*In what ways have Americans’ spending patterns changed over time, and how do trends in expenditures reflect those shifts?*
 
 **Response:**  
-- Disposable income rose slightly, but spending on healthcare increased more
-- Housing costs stayed steady as a % but rose in absolute terms
+- Expendiutures rose over time...
 - Plotting trends over time (2010–2023) using line graphs
 
 ---

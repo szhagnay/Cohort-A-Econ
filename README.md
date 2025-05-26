@@ -7,7 +7,7 @@
 ## Cohort-A Econ | End-of-Phase Team Project  
 **Contributors:** James Ceus, Jessenia Diaz, Fari Lindo, Bakari Sibert, Sherla Zhagnay
 
-   **Last Updated:** 2025-05-20  
+   **Last Updated:** 2025-25-2025  
 
 ---
 
@@ -92,7 +92,7 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 
 **Response:**  
 <!-- Add EDA insights or visualizations -->
--Theres not a strong correlation between to total income earned and cost of living because one is a micro economic factor and one is a macro with potentially different inputs.
+- Theres not a strong correlation between to total income earned and cost of living because one is a micro economic factor and one is a macro with potentially different inputs.
 - Noticed that lower-income brackets spend disproportionately more on housing
 - Cost of living varies widely by region—Midwest vs West Coast especially stark
 

@@ -134,9 +134,9 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 
 ---
 
-## General Consensus? 
-  - We recommend: 
-   - I thinking about the US, target growing sectors like tech, healthcare, and green energy for higher earning potential.
+## General Consensus: 
+**We recommend:** 
+   - If thinking about moving to the US, target growing sectors like tech, healthcare, and green energy for higher earning potential.
    - Plan financially for summer months, when income tends to dip.
    - Factor in regional costs (housing, transportation) when evaluating salaries.
    - Look beyond salary—real income and cost of living determine true financial well-being.

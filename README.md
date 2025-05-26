@@ -134,8 +134,8 @@ We are investigating economic **disparities**, **liquidity trends**, **spending 
 
 ---
 
-## General Concensus? 
-  - We recomend: 
+## General Concsensus? 
+  - We recommend: 
    - I thinking about the US, target growing sectors like tech, healthcare, and green energy for higher earning potential.
    - Plan financially for summer months, when income tends to dip.
    - Factor in regional costs (housing, transportation) when evaluating salaries.
